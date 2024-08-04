@@ -3,6 +3,7 @@ baseurl = "localhost:1313"
 title = "AINA"
 languageCode = "en-us"
 theme = "elate"
+publishDir = "public"
 
 [params]
   
